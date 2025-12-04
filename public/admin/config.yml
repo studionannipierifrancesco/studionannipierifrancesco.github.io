@@ -10,7 +10,7 @@ backend:
 site_url: https://www.studiofisiolistiklivornopisa.it
 
 media_folder: "public/images"
-public_folder: "/test-svelte-blog/images"
+public_folder: "/studionannipierifrancesco.github.io/images"
 
 collections:
   - name: "blog"
