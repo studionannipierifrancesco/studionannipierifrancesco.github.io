@@ -1,10 +1,8 @@
 # This file will be configured by the user after they create a new site from this template.
 backend:
   name: github
-  # IMPORTANT: THESE ARE PLACEHOLDERS FOR YOUR CLIENT TO FILL IN
   repo: studionannipierifrancesco/studionannipierifrancesco.github.io
   branch: main
-  # This will point to the client's authentication service
   base_url: https://red-shadow-5326.studionannipierifrancesco.workers.dev
 
 site_url: https://www.studiofisiolistiklivornopisa.it
