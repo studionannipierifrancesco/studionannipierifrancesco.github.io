@@ -3,5 +3,5 @@ import { defineConfig } from 'astro/config';
 // https://astro.build/config
 export default defineConfig({
   site: 'https://studiofisiolistiklivornopisa.it/',
-  base: '/test-svelte-blog',
+  base: '/studionannipierifrancesco.github.io',
 });
