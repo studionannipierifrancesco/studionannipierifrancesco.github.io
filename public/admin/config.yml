@@ -2,12 +2,12 @@
 backend:
   name: github
   # IMPORTANT: THESE ARE PLACEHOLDERS FOR YOUR CLIENT TO FILL IN
-  repo: LorenzoMoriniDev/test-svelte-blog
+  repo: studionannipierifrancesco/studionannipierifrancesco.github.io
   branch: main
   # This will point to the client's authentication service
-  base_url: https://hidden-math-99f2.lorenzo-morini99.workers.dev
+  base_url: https://red-shadow-5326.studionannipierifrancesco.workers.dev
 
-site_url: https://lorenzomorinidev.github.io/test-svelte-blog/
+site_url: https://www.studiofisiolistiklivornopisa.it
 
 media_folder: "public/images"
 public_folder: "/test-svelte-blog/images"
