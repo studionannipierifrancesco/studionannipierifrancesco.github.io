@@ -8,7 +8,7 @@ backend:
 site_url: https://www.studiofisiolistiklivornopisa.it
 
 media_folder: "public/images"
-public_folder: "/studionannipierifrancesco.github.io/images"
+public_folder: "/images"
 
 collections:
   - name: "blog"
