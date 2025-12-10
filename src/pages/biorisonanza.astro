@@ -1,0 +1,64 @@
+---
+import Layout from '../layouts/Layout.astro';
+
+// Image path using your BASE_URL logic
+const bioImage = `${import.meta.env.BASE_URL}/images/biorisonanza.jpg`;
+---
+
+<Layout title="Biorisonanza (Mora-terapia) - Studio Fisiolistik">
+  <section>
+    <div class="container">
+      
+      <h1>Biorisonanza (Mora-terapia)</h1>
+      <p class="section-subtitle">
+        Metodica diagnostica e terapeutica non invasiva per il riequilibrio dell'organismo.
+      </p>
+
+      <!-- 
+        REUSING EXISTING CSS: 
+        We use ".contact-layout" because your global.css defines it as:
+        grid-template-columns: 1fr 1fr; (Equal columns, perfect for text + image)
+      -->
+      <div class="contact-layout">
+        
+        <!-- LEFT COLUMN: Text -->
+        <div>
+          <p>
+            La Biorisonanza (o Mora-terapia) è una metodica diagnostica e terapeutica non invasiva che utilizza le oscillazioni elettromagnetiche del paziente per riequilibrare l'organismo.
+          </p>
+
+          <h3>Come funziona?</h3>
+          <p>
+            Ogni cellula del nostro corpo comunica attraverso frequenze elettromagnetiche. Quando queste frequenze sono disturbate (da stress, tossine, alimentazione errata), il corpo si indebolisce e possono insorgere disturbi.
+          </p>
+          <p>
+            Attraverso un'apparecchiatura specifica, siamo in grado di captare queste frequenze, separare quelle "patologiche" da quelle "sane", e inviare indietro al corpo un segnale terapeutico di correzione.
+          </p>
+
+          <h3>Campi di applicazione</h3>
+          <ul>
+            <li><strong>Intolleranze Alimentari</strong></li>
+            <li><strong>Disintossicazione</strong> da metalli pesanti</li>
+            <li><strong>Allergie</strong> stagionali o croniche</li>
+            <li><strong>Dolori Cronici</strong> (cefalee, dolori articolari)</li>
+            <li><strong>Riequilibrio Energetico</strong></li>
+          </ul>
+
+          <br />
+          <a href={`${import.meta.env.BASE_URL}/#contact`} class="cta-button">Prenota una Seduta</a>
+        </div>
+
+        <!-- RIGHT COLUMN: Image -->
+        <!-- 
+          REUSING EXISTING CSS:
+          Using ".about-image-container" and ".about-image" to get the 
+          shadow and border-radius defined in your global.css
+        -->
+        <div class="about-image-container">
+          <img src={bioImage} alt="Trattamento di Biorisonanza" class="about-image" />
+        </div>
+
+      </div>
+    </div>
+  </section>
+</Layout>
