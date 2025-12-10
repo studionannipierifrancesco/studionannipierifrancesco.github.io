@@ -1,7 +1,6 @@
-import { defineConfig } from 'astro/config';
-
-// https://astro.build/config
 export default defineConfig({
-  base: '/studionannipierifrancesco.github.io', 
-  site: 'https://studiofisiolistiklivornopisa.it/',
+  // 1. Base must be removed or '/'
+  base: '/', 
+  // 2. Site must be HTTPS
+  site: 'https://studiofisiolistiklivornopisa.it',
 });
