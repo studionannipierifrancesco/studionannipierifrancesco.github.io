@@ -26,4 +26,4 @@ Quando il diaframma diventa teso e rigido, retraendosi al punto da modificare pe
 
 Senza contare che un diaframma disfunzionale può, inoltre, arrivare a causare difficoltà circolatorie e linfatiche con vera e propria insufficienza venosa in area cerebrale data dalla tensione dei muscoli respiratori accessori del collo o provocare aritmie, enfisema e insufficienza respiratoria.
 
-Per questo motivo trattarlo permette di contare su una rieducazione respiratoria e su uno sblocco del diaframma attraverso tutte le catene coinvolte anche a distanza che lo renderà libero e funzionale, restituendo all’intera postura la libertà, il benessere e la funzionalità di cui ha bisogno!
+Per questo motivo trattarlo permette di contare su una rieducazione respiratoria e su uno sblocco del diaframma attraverso tutte le catene coinvolte anche a distanza che lo renderà libero e funzionale, restituendo all’intera postura la libertà, il benessere e la funzionalità di cui ha bisogno!![](/images/il%20diaframma.jpg)
