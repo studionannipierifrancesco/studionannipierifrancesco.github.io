@@ -19,3 +19,7 @@ Uno strumento importante nella diagnosi precoce di tale sindrome è l’ecografi
 Secondo la letteratura classica esistono due possibili trattamenti: conservativo e chirurgico.
 
 Esiste anche un’altra tecnica conservativa in ambito posturologico: il Riequilibrio Posturale ad Approccio Globale. Se diagnosticata in tempo, questa patologia può essere affrontata con successo attraverso questo tipo di trattamento, grazie al quale è possibile in molti casi ottenere un recupero completo della funzionalità della mano e la totale scomparsa dei sintomi. A differenza dei trattamenti precedentemente citati, il Riequilibrio Posturale ad Approccio Globale va ad indagare approfonditamente la causa scatenante per poi trattarla ed eliminarla definitivamente, invece di trattare esclusivamente il sintomo.
+
+
+
+![](/images/tunnel%20carpale.jpg)
