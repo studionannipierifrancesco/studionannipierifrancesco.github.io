@@ -1,5 +1,5 @@
 ---
-title: Il Diaframma
+title: TORNARE A RESPIRARE BENE ATTRAVERSO LA RIEDUCAZIONE RESPIRATORIA DEL DIAFRAMMA
 publishDate: 2025-12-12T13:06:00
 ---
 Il Diaframma![](/images/il%20diaframma.jpg)
